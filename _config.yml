@@ -37,13 +37,14 @@ closing-para: connect with me
 # on all pages (and the first three you list display with greeting, if included)
 social:
   #twitter: https://twitter.com/_username_
-  github: https://github.com/lehead
+  #github: https://github.com/lehead
+  instagram: https://www.instagram.com/swoon.sex.ed/
   linkedin-square: https://linkedin.com/in/louise-head/
   #facebook-official: https://facebook.com/_username_
   #google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
+  email: louise.e.head@gmail.com #/contact/ # you can configure and use this contact page or use your email addy
   #flickr:
-  instagram: https://www.instagram.com/swoon.sex.ed/
+
   #youtube-square:
   #spotify:
   #stack-overflow:
