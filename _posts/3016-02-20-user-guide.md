@@ -4,9 +4,9 @@ excerpt: How to use this theme
 tags: featured
 author: arkadianriver
 options: [minihead]
-permalink: /topics/user-guide/
+permalink: /blog/user-guide/
 categories:
-  - topics
+  - blog
   - user-guide
 background-image: flickr-froderik.jpg
 icon: book
@@ -21,11 +21,11 @@ see the [Github README](https://github.com/arkadianriver/arkadianriver.com).
 
 ## Contents
 
-- [About]({{ '/topics/user-guide/about.html' | prepend: site.baseurl }})
-- [Theme features]({{ '/topics/user-guide/features.html' | prepend: site.baseurl }})
-- [Front-matter]({{ '/topics/user-guide/template.html' | prepend: site.baseurl }})
-- [Shortcut includes]({{ '/topics/user-guide/template2.html' | prepend: site.baseurl }})
-- [HTML5 UP Elements]({{ '/topics/user-guide/elements.html' | prepend: site.baseurl }})
-- [Font-Awesome icon reference]({{ '/topics/user-guide/icons.html' | prepend: site.baseurl }})
+- [About]({{ '/blog/user-guide/about.html' | prepend: site.baseurl }})
+- [Theme features]({{ '/blog/user-guide/features.html' | prepend: site.baseurl }})
+- [Front-matter]({{ '/blog/user-guide/template.html' | prepend: site.baseurl }})
+- [Shortcut includes]({{ '/blog/user-guide/template2.html' | prepend: site.baseurl }})
+- [HTML5 UP Elements]({{ '/blog/user-guide/elements.html' | prepend: site.baseurl }})
+- [Font-Awesome icon reference]({{ '/blog/user-guide/icons.html' | prepend: site.baseurl }})
 
 
