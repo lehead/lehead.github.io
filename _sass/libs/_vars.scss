@@ -94,8 +94,8 @@
 		accent1: (
 			bg:				#ffb4a2, //salmon
 			fg-bold:		#ffffff,
-			fg:				mix(#21b2a6, #ffffff, 25%),
-			fg-light:		mix(#21b2a6, #ffffff, 40%),
+			fg:				mix(#ffb4a2, #ffffff, 25%), //replace these lines too
+			fg-light:		mix(#ffb4a2, #ffffff, 40%), //replace these lines too
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(0,0,0,0.25),
