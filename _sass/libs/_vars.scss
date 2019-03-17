@@ -78,8 +78,11 @@
 	);
 
 // Palette.
+// TODO: change colors here
+// change the six character hex code
+// I believe that none of the other specifications need to change
 	$palette: (
-		bg:					#2e3842,
+		bg:					#2e3842, //gray/black
 		fg:					#fff,
 		fg-bold:			#fff,
 		fg-light:			rgba(255,255,255,0.5),
@@ -89,7 +92,7 @@
 		border2-bg:			rgba(144,144,144,0.5),
 
 		accent1: (
-			bg:				#21b2a6,
+			bg:				#ffb4a2, //salmon
 			fg-bold:		#ffffff,
 			fg:				mix(#21b2a6, #ffffff, 25%),
 			fg-light:		mix(#21b2a6, #ffffff, 40%),
