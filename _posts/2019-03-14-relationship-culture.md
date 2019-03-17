@@ -15,6 +15,6 @@ tags:
 - about this package
 - ...
 
-#### Options
+#### Pricing
 
 ....
