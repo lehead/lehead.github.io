@@ -1,20 +1,20 @@
 ---
 priority: 0.7
-title: Project Y
-excerpt: A better example of a and b, with c
+title: Coaching Package 2
+excerpt: customize your experience
 categories: works
 background-image: works-sample.png
 tags:
-  - This
-  - That
-  - The other
+  - sex
+  - infidelity
+  - communication
 ---
 
-#### Results
+#### Information
 
-- 24% increase in M, measured by N
+- about this package
 - ...
 
-#### Summary
+#### Options
 
-Project Y involved ....
+....
