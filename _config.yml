@@ -30,7 +30,7 @@ lang: en-us # used in HTML lang attributes
 greeting:
   title: Press
   text: Louise has been featured in
-  image: Press_Logos.png
+  image: Press_Logos_skinny.jpg
 # - displayed at the bottom
 closing-head: Ready to take action?
 closing-para: connect with me
