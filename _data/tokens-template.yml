@@ -7,7 +7,7 @@ google-analytics: <google-analytics tracking ID>
 # Specify your mail form action, whether it be cgiemail, PHP, whatever
 # If you choose to use these provided scripts and you're also using a site
 # baseurl, you need to include the baseurl here, e.g. /blog/mailtome.php
-mailaction: <form action="https://formspree.io/louise.e.head@email.com" method="POST" />
+mailaction: <form action="https://formspree.io/louise.e.head@gmail.com" method="POST" />
 #captchascript: /mailcaptcha.php
 # If you choose to use the mailtome.php script, know that the site needs to
 # support PHP, which github pages does not. You can upload the PHP script
