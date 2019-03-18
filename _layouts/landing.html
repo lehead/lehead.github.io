@@ -37,12 +37,12 @@
                 <h2>{% if site.greeting.title %}{{ site.greeting.title }}{% else %}{{ site.title }}{% endif %}</h2>
                 <p>{% if site.greeting.text %}{{ site.greeting.text | markdownify }}{% else %}{{ site.description | markdownify }}{% endif %}</p>
               </header>
-          <section class="spotlight">
+
             <div class="image">
-                <img src="{{ site.baseurl }}/images/Press_Logos_skinny.jpg"
+              <img src="{{ site.baseurl }}/images/Press_Logos_skinny.jpg"
                    alt="press"/>
             </div>
-          </section>
+
           </section>{%
           endif %}
 
