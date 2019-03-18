@@ -37,12 +37,28 @@
                 <h2>{% if site.greeting.title %}{{ site.greeting.title }}{% else %}{{ site.title }}{% endif %}</h2>
                 <p>{% if site.greeting.text %}{{ site.greeting.text | markdownify }}{% else %}{{ site.description | markdownify }}{% endif %}</p>
               </header>
-
             <div class="image">
-              <img src="{{ site.baseurl }}/images/Press_Logos_skinny.jpg"
+              <a href="https://lehead.github.io/press/">
+                <img src="{{ site.baseurl }}/images/Press_Logos_skinny.jpg"
                    alt="press"/>
             </div>
-
+              <!-- <ul class="icons major">{%
+              for socloc in site.social limit:3 %}{%
+                if socloc[1] %}{%
+                  if socloc[0] == 'email' %}
+                <li><a target="_blank" href="{%
+                    if socloc[1] contains '@' %}mailto:{{ socloc[1] }}{%
+                    else %}{{ socloc[1] }}{%
+                    endif %}" class="icon fa-envelope major style1"
+                       ><span class="label">E-mail</span></a></li>{%
+                  else %}
+                <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }} major style{% cycle 1, 2, 3 %}"
+                       ><span class="label">{{ socloc[0] }}</span></a></li>{%
+                  endif %}{%
+                endif %}{%
+              endfor %}
+              </ul> -->
+            </div>
           </section>{%
           endif %}
 
