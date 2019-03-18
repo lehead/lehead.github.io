@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Press
-  text:
+  text: Louise has been featured in
   image: Press_Logos.png
 # - displayed at the bottom
 closing-head: Ready to take action?
