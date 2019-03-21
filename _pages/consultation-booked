@@ -1,0 +1,15 @@
+---
+id: 4
+title: Thanks for scheduling a phone consultation!
+permalink: /contact-success/
+options: nomenu, nolanding
+excerpt: I'll be in touch soon
+background-image: banner.jpg
+---
+{% unless site.data.tokens.spotifyurl %}
+<p>Looking forward to chatting!</p>
+{% else %}
+<p>Pass the time with some
+<a target="_blank"
+   href="{{ site.data.tokens.spotifyurl }}">music</a>. :O)</p>
+{% endunless %}
