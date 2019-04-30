@@ -1,13 +1,13 @@
 ---
 priority: 0.7
-title: Custom Package
-excerpt: tackle a specific problem
+title: Reconnecting With Your Purpose
+excerpt: Coaching for Individuals
 categories: works
 background-image: alexis-brown-85793-unsplash.jpg
 tags:
-  - sex
-  - infidelity
-  - non-monogamy
+  - personal growth
+  - anxiety
+  - depression
 ---
 
 #### Information
@@ -17,4 +17,4 @@ tags:
 
 #### Pricing
 
-....
+$100 per 50 minutes session
