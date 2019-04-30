@@ -1,13 +1,13 @@
 ---
 priority: 0.7
-title: Curating Your Relationship Culture
-excerpt: creating connection
+title: Reconnect With Each Other
+excerpt: Relationship Coaching
 categories: works
 background-image: tallie-robinson-592058-unsplash.jpg #TODO change
 tags:
-  - culture
-  - connection
   - communication
+  - connection
+  - sex and intimacy
 ---
 
 #### Information
@@ -17,4 +17,4 @@ tags:
 
 #### Pricing
 
-....
+$120 per 50 minute session
