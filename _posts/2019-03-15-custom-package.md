@@ -1,6 +1,6 @@
 ---
 priority: 0.7
-title: Reconnecting With Your Purpose
+title: Reconnect With Your Purpose
 excerpt: Coaching for Individuals
 categories: works
 background-image: alexis-brown-85793-unsplash.jpg
