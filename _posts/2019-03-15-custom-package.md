@@ -10,10 +10,10 @@ background-image: alexis-brown-85793-unsplash.jpg
   - depression -->
 ---
 
-#### Information
+#### Individual Coaching
 
-- about this package
-- ...
+- Over the course of 8 meetings, Louise will help you to identify negative narratives about yourself and the world that are holding you back from personal and professional growth. Together, you will build new personal narratives based on your strengths, personal values, and unique skill sets that will set you up to achieve your goals.
+- 
 
 #### Pricing
 
