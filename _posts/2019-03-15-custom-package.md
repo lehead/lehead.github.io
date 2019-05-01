@@ -17,4 +17,4 @@ background-image: alexis-brown-85793-unsplash.jpg
 
 #### Pricing
 
-$100 per 50 minutes session
+$110 per 50 minutes session
