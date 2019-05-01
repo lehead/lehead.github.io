@@ -4,10 +4,10 @@ title: Reconnect With Each Other
 excerpt: Relationship Coaching
 categories: works
 background-image: couplereddress_omar-lopez-1104241-unsplash.jpg #TODO change
-tags:
+<!-- tags:
   - communication
   - connection
-  - sex and intimacy
+  - sex and intimacy -->
 ---
 
 #### Information

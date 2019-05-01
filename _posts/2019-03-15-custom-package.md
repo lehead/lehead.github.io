@@ -4,10 +4,10 @@ title: Reconnect With Your Purpose
 excerpt: Coaching for Individuals
 categories: works
 background-image: alexis-brown-85793-unsplash.jpg
-tags:
+<!-- tags:
   - personal growth
   - anxiety
-  - depression
+  - depression -->
 ---
 
 #### Information
