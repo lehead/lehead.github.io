@@ -62,7 +62,7 @@
 
         <!-- Two -->
           <section id="landing_pages" class="wrapper alt style2">{%
-            assign sorted_pages = site.pages | sort:"id" %}{%
+            assign sorted_pages = site.pages | sort:'key','last' %}{%
             for my_page in sorted_pages %}{%
               if my_page.title %}{%
                 unless my_page.options contains 'nolanding' %}
