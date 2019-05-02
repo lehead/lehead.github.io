@@ -82,8 +82,12 @@ creds:
     by  : jQuery Foundation
     url : https://jquery.com/
     lic : mit
+  - for : Customization
+    by  : Lauren Fink
+    url : lkfink.github.io
+    lic : ccb3
 #
-inspiration:
+#inspiration:
   # - name : Michael Rose
   #   url  : https://github.com/mmistakes
   # - name : David Ollerhead
@@ -95,7 +99,7 @@ inspiration:
   # - name : Adam Garrett-Harris
   #   url  : https://twitter.com/agarrharr
 #
-other-image-credit: All other images are public domain.
+other-image-credit: All images are public domain.
 #
 # Chances are you replaced at least the banner below and will want
 # to change the attribution.
