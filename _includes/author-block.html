@@ -1,7 +1,7 @@
 {%
 if page.author %}{%
   assign auth = site.data.authors[page.author] %}{%
-  assign test1 = auth.avatar | slice: 1 %}{%
+  assign test1 = auth.avatar %}{% <!--  | slice: 1 -->
   if test1 == "http" %}{%
     assign pic = auth.avatar %}{%
   else %}{%
