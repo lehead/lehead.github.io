@@ -6,8 +6,8 @@ layout: default
       unless site.navlinks == 'none'
 %}{%    if page.categories contains 'works'
 %}{%      assign idxperma = '/works/' | prepend: site.baseurl
-%}{%      assign idxtitle = 'Works Index'
-%}{%      assign idxbutton = 'Index'
+<!-- %}{%      assign idxtitle = 'Works Index'
+%}{%      assign idxbutton = 'Index' -->
 %}{%      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
 %}{%    endif
 %}{%    if page.categories.first == 'blog' and page.categories.last != 'blog'
