@@ -2248,76 +2248,76 @@ $baseurl: '{{ site.baseurl }}/images';
 
 /* back/next links in works */
 
-  .backnext {
-  	width: 100%;
-  	padding: 6px;
-  	text-align: center;
-  	vertical-align: baseline;
-
-  	&.bntop {
-  	  margin: 0 0 16px 0;
-  	}
-  	&.bnbottom {
-  	  margin: 16px 0 0 0;
-  	}
-
-  	@include breakpoint(small) {
-  	  padding-left: 0;
-  	}
-
-  	.back {
-  	  text-align: right;
-  	  margin-right: 6px;
-
-  	  @include breakpoint(small) {
-  	  	margin-bottom: 9px;
-  	  }
-  	}
-  	.next {
-  	  text-align: left;
-  	  margin-left: 6px;
-  	}
-  	.back, .next {
-  		width: 40%;
-  		display: inline-block;
-
-  		@include breakpoint(small) {
-  			display: block;
-  			width: 100%;
-  			text-align: center;
-  			margin-left: 0;
-  			margin-right: 0;
-  		}
-  	}
-  	.bpointer, .npointer {
-  		> a {
-  			text-decoration: none;
-  		}
-  	}
-  	.btitle {
-  		font-family: _font(prose-family);
-  		padding-right: 36px;
-  		@include breakpoint(small) {
-  			padding-right: 0;
-  		}
-  	}
-  	.ntitle {
-  		font-family: _font(prose-family);
-  		padding-left: 32px;
-  		@include breakpoint(small) {
-  			padding-left: 0;
-  		}
-  	}
-  }
-
-  .nobullet { list-style-type: none; }
-
-  .works_inprogress {
-  	font-family: _font(prose-family);
-  	width:100%;
-  	text-align:center;
-  	margin-bottom:16px;
-  }
+  // .backnext {
+  // 	width: 100%;
+  // 	padding: 6px;
+  // 	text-align: center;
+  // 	vertical-align: baseline;
+	//
+  // 	&.bntop {
+  // 	  margin: 0 0 16px 0;
+  // 	}
+  // 	&.bnbottom {
+  // 	  margin: 16px 0 0 0;
+  // 	}
+	//
+  // 	@include breakpoint(small) {
+  // 	  padding-left: 0;
+  // 	}
+	//
+  // 	.back {
+  // 	  text-align: right;
+  // 	  margin-right: 6px;
+	//
+  // 	  @include breakpoint(small) {
+  // 	  	margin-bottom: 9px;
+  // 	  }
+  // 	}
+  // 	.next {
+  // 	  text-align: left;
+  // 	  margin-left: 6px;
+  // 	}
+  // 	.back, .next {
+  // 		width: 40%;
+  // 		display: inline-block;
+	//
+  // 		@include breakpoint(small) {
+  // 			display: block;
+  // 			width: 100%;
+  // 			text-align: center;
+  // 			margin-left: 0;
+  // 			margin-right: 0;
+  // 		}
+  // 	}
+  // 	.bpointer, .npointer {
+  // 		> a {
+  // 			text-decoration: none;
+  // 		}
+  // 	}
+  // 	.btitle {
+  // 		font-family: _font(prose-family);
+  // 		padding-right: 36px;
+  // 		@include breakpoint(small) {
+  // 			padding-right: 0;
+  // 		}
+  // 	}
+  // 	.ntitle {
+  // 		font-family: _font(prose-family);
+  // 		padding-left: 32px;
+  // 		@include breakpoint(small) {
+  // 			padding-left: 0;
+  // 		}
+  // 	}
+  // }
+	//
+  // .nobullet { list-style-type: none; }
+	//
+  // .works_inprogress {
+  // 	font-family: _font(prose-family);
+  // 	width:100%;
+  // 	text-align:center;
+  // 	margin-bottom:16px;
+  // }
 
 /* Video embeds
      http://embedresponsively.com
