@@ -3,6 +3,7 @@ priority: 0.7
 title: Reconnect With Your Purpose
 excerpt: Coaching for Individuals
 categories: works
+minihead: Individual 
 background-image: alexis-brown-85793-unsplash.jpg
 <!-- tags:
   - personal growth
