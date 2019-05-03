@@ -4,7 +4,7 @@ excerpt: moving from pain to growth
 tags:
 author: lehead
 options: [minihead]
-permalink: /blog/test-post/
+permalink: /blog/overcomingInfidelity/
 categories:
   - blog
 background-image: bluehair_soroush-karimi-587206-unsplash.jpg
@@ -24,6 +24,3 @@ Overcoming Infidelity
 
 ## subheading
 Moving from pain to growth
-
-# Links
-- Here is a link to my [contact page]({{ '/contact.html' | prepend: site.baseurl}})
