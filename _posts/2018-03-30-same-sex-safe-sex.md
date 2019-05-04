@@ -1,4 +1,4 @@
-title: [How to have same-sex safe sex](https://talktabu.com/zine/same-sex-safe-sex)
+title: How to have same-sex safe sex
 tags:
 author: lehead
 options: [minihead]
@@ -7,3 +7,6 @@ categories:
   - blog
 background-image: bluehair_soroush-karimi-587206-unsplash.jpg
 icon: book
+
+
+https://talktabu.com/zine/same-sex-safe-sex
