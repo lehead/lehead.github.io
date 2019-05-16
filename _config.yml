@@ -11,8 +11,8 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: Louise Head, Relationship Coach
-description: modern love deserves modern guidance
+title: Louise Head, Life & Relationship Coach
+description: modern life deserves modern guidance
 owner:
   name: Louise Head # or company name
   url: "http://lehead.github.io" # your URL
@@ -31,7 +31,7 @@ greeting:
   title: Press
   text: Louise has been featured in
   image: Press_Logos_skinny.jpg
-  
+
 # - displayed at the bottom
 closing-head: Ready to take action?
 closing-para: connect with me
