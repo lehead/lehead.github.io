@@ -28,13 +28,13 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Press
-  text: Louise has been featured in
-  image: Press_Logos_skinny.jpg
+  title: #Press
+  text: #Louise has been featured in
+  image: #Press_Logos_skinny.jpg
 
 # - displayed at the bottom
 closing-head: Ready to take action?
-closing-para: connect with me
+closing-para: Connect with me
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
