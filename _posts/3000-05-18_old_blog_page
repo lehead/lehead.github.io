@@ -83,3 +83,43 @@ Don't use dynamic populating of posts on blog page for now because want to be ab
     </ul>
 
 {%  endif %} -->
+
+
+
+
+
+
+
+
+scrap from landing page
+
+<!-- One -->
+{%
+if site.greeting %}
+<!-- ISSUE with mobile version -->
+  <!-- <section id="greeting" class="wrapper style1 special">
+    <div class="inner">
+      <a href="https://lehead.github.io/press/">
+        <header class="major">
+          <h2>{% if site.greeting.title %}{{ site.greeting.title }}{% else %}{{ site.title }}{% endif %}</h2>
+          <p>{% if site.greeting.text %}{{ site.greeting.text | markdownify }}{% else %}{{ site.description | markdownify }}{% endif %}</p>
+        </header>
+
+
+        <div class="box alt">
+          <div class="row uniform 50%">
+            <div class="12u"><span class="image fit"><img src="{{ site.baseurl }}/images/Press_Logos_skinny.jpg" alt="" /></span></div>
+          </div>
+        </div>
+      </a> -->
+        <!-- <div class="box alt">
+          <div class="row uniform 50%">
+              <div class="4u"><span class="image fit"><a href="https://lehead.github.io/press/">
+                <img src="{{ site.baseurl }}/images/Press_Logos_skinny.jpg" alt="Press" /></span></div>
+          </div>
+        </div> -->
+
+    <!-- </div>
+  </section>{%
+  endif %}
+</a> -->
