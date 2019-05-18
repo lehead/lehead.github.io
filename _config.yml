@@ -27,10 +27,10 @@ lang: en-us # used in HTML lang attributes
 
 # on landing page
 # - set the greeting only if you want to display the first green section
-greeting:
-  title: #Press
-  text: #Louise has been featured in
-  image: #Press_Logos_skinny.jpg
+# greeting:
+#   title: #Press
+#   text: #Louise has been featured in
+#   image: #Press_Logos_skinny.jpg
 
 # - displayed at the bottom
 closing-head: Ready to take action?
